@@ -1,1 +1,8 @@
-# Add project dependencies here
+pandas
+scikit-learn
+h2o
+nltk
+datatable
+polars
+pyarrow
+xgboost
